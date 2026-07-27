@@ -9,7 +9,7 @@
   <Identity
     Name="GeminiCopilotKeyApp"
     Publisher="CN=GeminiCopilotKeyApp"
-    Version="1.0.0.0" />
+    Version="1.0.13.0" />
 
   <Properties>
     <DisplayName>Gemini Co-Pilot Key App</DisplayName>
@@ -33,7 +33,7 @@
       <uap:VisualElements
         DisplayName="Gemini Co-Pilot Key App"
         Description="Launches Gemini"
-        BackgroundColor="transparent"
+        BackgroundColor="#1c1c1c"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png">
         <uap:DefaultTile Wide310x150Logo="Assets\Square150x150Logo.png" />
