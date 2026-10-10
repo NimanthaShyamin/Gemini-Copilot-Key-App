@@ -1,0 +1,11 @@
+# Ignore build folders
+bin/
+obj/
+PublishOutput/
+
+# Ignore compiled app packages and ZIPs
+*.msix
+*.zip
+
+# NEVER UPLOAD CERTIFICATES OR SECRETS
+*.pfx
